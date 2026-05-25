@@ -1,10 +1,10 @@
 # ✨ awesome-ai-token-proxies
 
-📌 **AI Token 中转站合集**：收录 Claude、GPT、Gemini 等主流大模型的第三方接入服务，方便一站式浏览与对比。
+**AI Token 中转站合集**：收录 Claude、GPT、Gemini 等主流大模型的第三方接入服务，方便一站式浏览与对比。
 
 > ⚠️ **说明** · 本仓库仅作信息聚合展示；各站点均由社区贡献，可用性与合规性请自行核实，请谨慎评估后使用。
 
-🙌 **想补充新站点？** 欢迎提交 Pull Request。在 GitHub 网页端直接编辑本仓库的 `README.md` 并保存，系统会自动生成轻量级 PR，上手很快～
+**想补充新站点？** 欢迎提交 Pull Request。在 GitHub 网页端直接编辑本仓库的 `README.md` 并保存，系统会自动生成轻量级 PR，上手很快～
 
 ## 🌍 中转站列表
 
