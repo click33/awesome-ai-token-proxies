@@ -17,7 +17,21 @@
 - https://jiekou.ai/ - 全模型支持、简单易用、个人/企业通用、支持 Claude Opus 4.7
 - https://agentrouter.org/ - 统一的大模型接口网关，支持  Codex、RooCode、Qwen Code、Claude Code 
 - https://panel.model-port.xyz/ - 专注提供Codex，gpt5.5,5.4模型，强大的模型缓存，消耗极低，注册就送2$ 
-- https://api777.cn/ - 湖南八洲网络
+- https://www.dataeyes.ai/ - DataEyesAI，全功能 AI API 平台，一套接口接入 Claude、GPT、Gemini 等主流模型，含网页解析、搜索 API、文档 OCR 等多元产品，高稳定性分布式架构，7×24 小时技术支持
+- https://aicodelink.top/ - Code Link，汇聚 Claude、GPT、Gemini 全球顶尖算力，支持 Claude Code、Codex、Gemini CLI，新用户注册赠 $2，1:1 兑换对标官方，按量计费余额永久有效
+- https://key.wenwen-ai.com/ - 问问 AI，AI token 中转服务，一个 API 接入所有 AI 模型
+- https://ciyuan-token.com/ - 词元token，更省心的 AI API 中转站，统一接入 GPT、Claude、Gemini，1$=1¥，新用户免费体验额度，按量扣费余额永不过期
+- https://aigo123.net/ - AiGo123，统一的大模型接口网关，支持 30+ 主流 AI 供应商，OpenAI 兼容接口，更好的价格与稳定性
+- https://wendingai.future1.us/ - 问鼎 AI，一个账号接入所有 AI 服务，兼容 OpenAI SDK，新用户注册领 $4 体验额度，支持 Cursor、Cherry Studio、ChatBox 等主流工具
+- https://api.aifox.pro/ - Fox AI，统一 API 网关，多区域部署，支持 OpenAI / Claude / Gemini / DeepSeek，按量付费透明计费，团队协作友好
+- https://code.x-aio.com/ - X-AIO Code Plan，一站聚合 Claude、GPT、Gemini 等全球主流模型，兼容 10+ AI 编码工具（Cursor、Cline、Roocode 等），月订阅制比官方便宜 90%，支持 MCP 生态
+- https://deepkey.top/ - deepkey.top，专注提供 Claude Code、Codex、Gemini API 密钥，99.9% 可用性，高性价比，数据安全，原版无降智
+- https://api.code-relay.com/ - Code Router，统一的大模型接口网关，兼容 Claude、OpenAI 等主流 AI 编程服务，更好的价格与稳定性，国内备案企业运营
+- https://letaicode.cn/ - LetAiCode，集成 Claude Code、Gemini Pro、OpenAI Codex，官方直连无降智，按量计费明码标价，支持企业开票，VIP 专属售后群
+- https://code.ai80.vip/home - Code80·AI 编程巴士，纯血订阅账号转发（Claude Max / ChatGPT Plus / Google），99.9% 可用率，完整支持 Extended Thinking，接入 Claude、GPT、Gemini，包月约 ¥2/$
+- https://api.xnark.com/home - 小诺方舟 XNARK，企业级 Model Gateway，支持 Claude Code / OpenCode，协议自动转换，聚合 Claude、GPT-5.4、GLM-5、Kimi 2.5 等模型，<50ms 平均延迟
+- https://sub.tisoz.com/home - 小肩膀 AI，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能调度多账号，按量计费
+- https://codex.hualong.site/ - 华龙中转站，纯血 Pro 20x 号池，订阅转 API，支持 Claude、GPT、Gemini，包月套餐，稳定优先绝不掺假
 
 
 
