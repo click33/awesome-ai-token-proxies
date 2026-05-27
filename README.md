@@ -35,7 +35,7 @@
 - https://sub.tisoz.com/home - 小肩膀 AI，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能调度多账号，按量计费
 - https://codex.hualong.site/ - 华龙中转站，纯血 Pro 20x 号池，订阅转 API，支持 Claude、GPT、Gemini，包月套餐，稳定优先绝不掺假
 - https://api.fastai.cool/ - FAST AI中转站，满血5.5，稳定接入Claude Code / OpenAI Codex，无需担心封号和付款问题，包月套餐，稳定优先绝不掺假
-
+- https://www.geek2api.com/ - GEEK2API AI 中转站，主推低价稳定的 Claude / GPT 全模型服务，一键接入，按量付费，可开发票，注册就送3$ 
 
 --- 
 
