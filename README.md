@@ -34,6 +34,7 @@
 - https://api.xnark.com/home - 小诺方舟 XNARK，企业级 Model Gateway，支持 Claude Code / OpenCode，协议自动转换，聚合 Claude、GPT-5.4、GLM-5、Kimi 2.5 等模型，<50ms 平均延迟
 - https://sub.tisoz.com/home - 小肩膀 AI，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能调度多账号，按量计费
 - https://codex.hualong.site/ - 华龙中转站，纯血 Pro 20x 号池，订阅转 API，支持 Claude、GPT、Gemini，包月套餐，稳定优先绝不掺假
+- https://api.fastai.cool/ - FAST AI中转站，满血5.5，稳定接入Claude Code / OpenAI Codex，无需担心封号和付款问题，包月套餐，稳定优先绝不掺假
 
 
 --- 
