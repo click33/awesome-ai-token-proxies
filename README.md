@@ -9,7 +9,7 @@
 --- 
 
 ## 🌍 中转站列表
-
+- https://nexus.apimf.top/ -GPT-5.5 仅0.1倍率（高缓存命中）｜Claude 4.7 仅0.08倍率｜稳定直连，高性价比可长期使用。
 - https://api.ostll.com/ - 纯血token，境外企业渠道 
 - https://api.apinova.cc/ - 管渠 GPT PLUS 号池 、 满血5.5、 折扣后2毛，高缓存Claude 的平价平台、万兆宽带低延迟 每天分发数十亿Token、用过的都说好
 - https://unity2.ai - opus4.7、codex、gpt5.4、gemini3.1 都可以用，充值1元等于1刀。
@@ -34,7 +34,8 @@
 - https://api.xnark.com/home - 小诺方舟 XNARK，企业级 Model Gateway，支持 Claude Code / OpenCode，协议自动转换，聚合 Claude、GPT-5.4、GLM-5、Kimi 2.5 等模型，<50ms 平均延迟
 - https://sub.tisoz.com/home - 小肩膀 AI，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能调度多账号，按量计费
 - https://codex.hualong.site/ - 华龙中转站，纯血 Pro 20x 号池，订阅转 API，支持 Claude、GPT、Gemini，包月套餐，稳定优先绝不掺假
-
+- https://api.fastai.cool/ - FAST AI中转站，满血5.5，稳定接入Claude Code / OpenAI Codex，无需担心封号和付款问题，包月套餐，稳定优先绝不掺假
+- https://www.geek2api.com/ - GEEK2API AI 中转站，主推低价稳定的 Claude / GPT 全模型服务，一键接入，按量付费，可开发票，注册就送3$ 
 
 --- 
 
