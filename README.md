@@ -10,7 +10,6 @@
 
 ## 🌍 中转站列表
 - https://nexus.apimf.top/ -GPT-5.5 仅0.1倍率（高缓存命中）｜Claude 4.7 仅0.08倍率｜稳定直连，高性价比可长期使用。
-- https://api.ostll.com/ - 纯血token，境外企业渠道 
 - https://api.apinova.cc/ - 管渠 GPT PLUS 号池 、 满血5.5、 折扣后2毛，高缓存Claude 的平价平台、万兆宽带低延迟 每天分发数十亿Token、用过的都说好
 - https://unity2.ai - opus4.7、codex、gpt5.4、gemini3.1 都可以用，充值1元等于1刀。
 - https://0011.ai/ - 稳定接入 Claude Code / OpenAI Codex，无需担心封号和付款问题。
