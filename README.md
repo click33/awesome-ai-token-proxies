@@ -40,6 +40,7 @@
 - https://www.geek2api.com/ - GEEK2API AI 中转站，主推低价稳定的 Claude / GPT 全模型服务，一键接入，按量付费，可开发票，注册就送3$ 
 - https://www.blueapi.cn/ - blue中转站，满血GPT,0.25充值比例，0.6消耗比率，支持画布生图
 - https://api.autofish.club/ - Autofish，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，1:1 充值 0.2 倍率，智能多账号调度，按量计费
+- https://freemodel.dev/ - FreeModel，注册即得 $300 免费 API 额度，无需绑定支付方式，兼容 OpenAI 接口，支持 FRE-5.4 与 FRE-5.5 最新旗舰模型
 --- 
 
 
