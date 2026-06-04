@@ -42,6 +42,7 @@
 - https://api.autofish.club/ - Autofish，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，1:1 充值 0.2 倍率，智能多账号调度，按量计费
 - https://freemodel.dev/ - FreeModel，注册即得 $300 免费 API 额度，无需绑定支付方式，兼容 OpenAI 接口，支持 FRE-5.4 与 FRE-5.5 最新旗舰模型
 - https://ai.ugf.cc/ - UGF-API，AI 聚合平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能调度多账号，按量计费
+- https://api.yixia.ai/ - Yixia API，统一的大模型接口网关，支持 30+ 主流 AI 供应商，OpenAI 兼容接口，更好的价格与稳定性
 --- 
 
 
@@ -51,4 +52,4 @@ QQ 交流群：1085258786，[点击加入](https://qm.qq.com/q/yQhHEMFmb8)
 
 微信交流群：
 
-<img src="https://sa-token.cc/big-file/contact/ai-coding/wx-group-qr.png?date=2026-5-29" width="230px" title="微信群" />
+<img src="https://sa-token.cc/big-file/contact/ai-coding/wx-group-qr.png?date=2026-6-4" width="230px" title="微信群" />
