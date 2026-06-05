@@ -43,6 +43,7 @@
 - https://freemodel.dev/ - FreeModel，注册即得 $300 免费 API 额度，无需绑定支付方式，兼容 OpenAI 接口，支持 FRE-5.4 与 FRE-5.5 最新旗舰模型
 - https://ai.ugf.cc/ - UGF-API，AI 聚合平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能调度多账号，按量计费
 - https://api.yixia.ai/ - Yixia API，统一的大模型接口网关，支持 30+ 主流 AI 供应商，OpenAI 兼容接口，更好的价格与稳定性
+- https://image.yundzc.cn/ - 云中转，AI Token 代理服务，支持主流大模型 API 接入
 --- 
 
 
