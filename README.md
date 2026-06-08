@@ -45,6 +45,7 @@
 - https://api.yixia.ai/ - Yixia API，统一的大模型接口网关，支持 30+ 主流 AI 供应商，OpenAI 兼容接口，更好的价格与稳定性
 - https://image.yundzc.cn/ - 云中转，AI Token 代理服务，支持主流大模型 API 接入
 - https://gpt.zxcbnm.xyz/ - Galaxy 银河，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能调度多账号，按量计费
+- https://axisapi.cn/ Axis Api中转，稳定接入各种gpt模型，我们的核心宗旨是【稳定】与【安全】，全力保障用户的基本响应速度。我们不盲目拼低价，但我们保证每一分钱都用在服务本身的稳定上。
 --- 
 
 
