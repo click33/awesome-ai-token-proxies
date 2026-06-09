@@ -9,7 +9,6 @@
 --- 
 
 ## 🌍 中转站列表
-- https://nexus.apimf.top/ -GPT-5.5 仅0.1倍率（高缓存命中）｜Claude 4.7 仅0.08倍率｜稳定直连，高性价比可长期使用。
 - https://unity2.ai - opus4.7、codex、gpt5.4、gemini3.1 都可以用，充值1元等于1刀。
 - https://0011.ai/ - 稳定接入 Claude Code / OpenAI Codex，无需担心封号和付款问题。
 - https://www.weelinking.com - 99.9% 可用性、0.8元一刀、200+ AI 大模型全覆盖
