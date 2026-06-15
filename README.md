@@ -48,7 +48,8 @@
 - https://api.tokenshen.top/ 我不是token神，claude 、codex 低价满血、保真； codex plus目前0.05/刀 pro0.2/刀;生图不限制分辨率0.06/刀 --20260608
 - https://muskapi.cc/ - MuskAI，高性能 AI API 平台，支持 Claude、ChatGPT、Gemini、DeepSeek、Grok 等主流模型，OpenAI 兼容接口，多节点负载均衡，按量计费透明记录，全球 CDN 加速
 - https://mytoken.top/ - 全球Token站，77+ AI 模型统一 API 接入，低延迟优化路由，企业级安全加密，按量计费透明定价，多节点全球加速
-- https://api.mooko.ai/ 木瓜AI-大模型中转平台 推荐一个 倍率0.01，等于1分=1刀，不介意的老铁用的邀请码吧 https://api.mooko.ai/register?aff=hU6L  
+- https://api.mooko.ai/ 木瓜AI-大模型中转平台 推荐一个 倍率0.01，等于1分=1刀，不介意的老铁用的邀请码吧 https://api.mooko.ai/register?aff=hU6L
+- https://lumen.mengfanlab.top - Lumen，对话 + 生图一体的中转；兼容 OpenAI 与 Anthropic 协议，可直接接入 Claude Code 与 Codex。按 token 计费，积分一次购买永久有效、不绑卡、不自动续费。
 --- 
 
 
