@@ -51,6 +51,7 @@
 - https://mytoken.top/ - 全球Token站，77+ AI 模型统一 API 接入，低延迟优化路由，企业级安全加密，按量计费透明定价，多节点全球加速
 - https://api.mooko.ai/ 木瓜AI-大模型中转平台 推荐一个 倍率0.01，等于1分=1刀，不介意的老铁用的邀请码吧 https://api.mooko.ai/register?aff=hU6L  
 - https://vip.voycloud.com/ VoycloudAi-大模型中转平台，提供整合工具，计费透明，多种模式链接  
+- https://choohub.net/ - ChooHub，统一的 AI API 聚合平台，支持 Claude、ChatGPT、DeepSeek、Grok 等主流模型，多节点负载均衡接口稳定，按量计费透明记录，全球 CDN 加速
 --- 
 
 
