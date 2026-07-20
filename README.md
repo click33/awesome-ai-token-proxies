@@ -51,6 +51,7 @@
 - https://mytoken.top/ - 全球Token站，77+ AI 模型统一 API 接入，低延迟优化路由，企业级安全加密，按量计费透明定价，多节点全球加速
 - https://api.mooko.ai/ 木瓜AI-大模型中转平台 推荐一个 倍率0.01，等于1分=1刀，不介意的老铁用的邀请码吧 https://api.mooko.ai/register?aff=hU6L  
 - https://vip.voycloud.com/ VoycloudAi-大模型中转平台，提供整合工具，计费透明，多种模式链接  
+- [AI Router｜ChatGPT API 中转](https://ai-router.dev/cn) - 面向开发者的 OpenAI 兼容 API 中转服务；用户创建个人 API Key 后可通过 `https://api.ai-router.dev/v1` 调用，并查看对应 Key 的用量。独立服务，非 OpenAI 官方。
 --- 
 
 
