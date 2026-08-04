@@ -60,4 +60,4 @@ QQ 交流群：1085258786，[点击加入](https://qm.qq.com/q/yQhHEMFmb8)
 
 微信交流群：
 
-<img src="https://sa-token.cc/big-file/contact/ai-coding/wx-group-qr.png?date=2026-07-26" width="230px" title="微信群" />
+<img src="https://sa-token.cc/big-file/contact/ai-coding/wx-group-qr.png?date=2026-08-04" width="230px" title="微信群" />
