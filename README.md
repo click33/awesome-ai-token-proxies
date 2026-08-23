@@ -60,4 +60,4 @@ QQ 交流群：1085258786，[点击加入](https://qm.qq.com/q/yQhHEMFmb8)
 
 微信交流群：
 
-<img src="https://res.dev33.cn/contact/ai-coding-wx-group-qr.png?date=2026-08-22" width="230px" title="微信群" />
+<img src="https://res.dev33.cn/contact/ai-coding-wx-group-qr.png?date=2026-08-23" width="230px" title="微信群" />
