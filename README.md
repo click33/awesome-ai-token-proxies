@@ -27,7 +27,8 @@
 - https://deepkey.top/ - deepkey.top，专注提供 Claude Code、Codex、Gemini API 密钥，99.9% 可用性，高性价比，数据安全，原版无降智
 - https://api.code-relay.com/ - Code Router，统一的大模型接口网关，兼容 Claude、OpenAI 等主流 AI 编程服务，更好的价格与稳定性，国内备案企业运营
 - https://letaicode.cn/ - LetAiCode，集成 Claude Code、Gemini Pro、OpenAI Codex，官方直连无降智，按量计费明码标价，支持企业开票，VIP 专属售后群
-- https://code.ai80.vip/home - Code80·AI 编程巴士，纯血订阅账号转发（Claude Max / ChatGPT Plus / Google），99.9% 可用率，完整支持 Extended Thinking，接入 Claude、GPT、Gemini，包月约 ¥2/$
+- https://code.ai80.vip/home - Code80·AI 编
+程巴士，纯血订阅账号转发（Claude Max / ChatGPT Plus / Google），99.9% 可用率，完整支持 Extended Thinking，接入 Claude、GPT、Gemini，包月约 ¥2/$
 - https://api.xnark.com/home - 小诺方舟 XNARK，企业级 Model Gateway，支持 Claude Code / OpenCode，协议自动转换，聚合 Claude、GPT-5.4、GLM-5、Kimi 2.5 等模型，<50ms 平均延迟
 - https://sub.tisoz.com/home - 小肩膀 AI，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能调度多账号，按量计费
 - https://codex.hualong.site/ - 华龙中转站，纯血 Pro 20x 号池，订阅转 API，支持 Claude、GPT、Gemini，包月套餐，稳定优先绝不掺假
