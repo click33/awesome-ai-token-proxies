@@ -51,6 +51,7 @@
 - https://mytoken.top/ - 全球Token站，77+ AI 模型统一 API 接入，低延迟优化路由，企业级安全加密，按量计费透明定价，多节点全球加速
 - https://api.mooko.ai/ 木瓜AI-大模型中转平台 推荐一个 倍率0.01，等于1分=1刀，不介意的老铁用的邀请码吧 https://api.mooko.ai/register?aff=hU6L  
 - https://vip.voycloud.com/ VoycloudAi-大模型中转平台，提供整合工具，计费透明，多种模式链接  
+- https://kuafushe.cc - 夸父社API，New API 中转站，兼容 OpenAI 与 Anthropic 原生协议，支持 Claude Code / Codex / Cursor，聚合 Claude、GPT、Gemini、DeepSeek、GLM、Kimi、Qwen、Grok；支付宝/微信、¥1 起充、可开票，注册送 $0.2。注册：https://kuafushe.cc/register?aff=XB5VM25Z6A8C
 --- 
 
 
