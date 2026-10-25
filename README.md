@@ -50,7 +50,8 @@
 - https://muskapi.cc/ - MuskAI，高性能 AI API 平台，支持 Claude、ChatGPT、Gemini、DeepSeek、Grok 等主流模型，OpenAI 兼容接口，多节点负载均衡，按量计费透明记录，全球 CDN 加速
 - https://mytoken.top/ - 全球Token站，77+ AI 模型统一 API 接入，低延迟优化路由，企业级安全加密，按量计费透明定价，多节点全球加速
 - https://api.mooko.ai/ 木瓜AI-大模型中转平台 推荐一个 倍率0.01，等于1分=1刀，不介意的老铁用的邀请码吧 https://api.mooko.ai/register?aff=hU6L  
-- https://vip.voycloud.com/ VoycloudAi-大模型中转平台，提供整合工具，计费透明，多种模式链接  
+- https://vip.voycloud.com/ VoycloudAi-大模型中转平台，提供整合工具，计费透明，多种模式链接
+- https://big-model.smart-agi.com/ - Twinkle Model，基于 sub2api 的官方订阅渠道中转：GPT 0.1 倍起、Claude Kiro 高缓 0.15 / CC-MAX 满血、Grok 0.15、GLM/DeepSeek/Kimi 低折扣，生图 0.1 元/次，支付宝 ¥1 起充，可开发票
 --- 
 
 
