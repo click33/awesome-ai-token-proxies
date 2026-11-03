@@ -21,6 +21,7 @@
 - https://key.wenwen-ai.com/ - 问问 AI，AI token 中转服务，一个 API 接入所有 AI 模型
 - https://ciyuan-token.com/ - 词元token，更省心的 AI API 中转站，统一接入 GPT、Claude、Gemini，1$=1¥，新用户免费体验额度，按量扣费余额永不过期
 - https://aigo123.net/ - AiGo123，统一的大模型接口网关，支持 30+ 主流 AI 供应商，OpenAI 兼容接口，更好的价格与稳定性
+- https://beeaicloud.com/ - 蜂桥 AI，面向开发者与企业的 AI 模型 API 中转站，统一接入 GPT、Claude、Gemini 等主流大模型，支持 Codex、Claude Code 直连，注册即送 $2 API 体验额度，按量计费
 - https://wendingai.future1.us/ - 问鼎 AI，一个账号接入所有 AI 服务，兼容 OpenAI SDK，新用户注册领 $4 体验额度，支持 Cursor、Cherry Studio、ChatBox 等主流工具
 - https://api.aifox.pro/ - Fox AI，统一 API 网关，多区域部署，支持 OpenAI / Claude / Gemini / DeepSeek，按量付费透明计费，团队协作友好
 - https://code.x-aio.com/ - X-AIO Code Plan，一站聚合 Claude、GPT、Gemini 等全球主流模型，兼容 10+ AI 编码工具（Cursor、Cline、Roocode 等），月订阅制比官方便宜 90%，支持 MCP 生态
