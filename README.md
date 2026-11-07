@@ -51,6 +51,7 @@
 - https://mytoken.top/ - 全球Token站，77+ AI 模型统一 API 接入，低延迟优化路由，企业级安全加密，按量计费透明定价，多节点全球加速
 - https://api.mooko.ai/ 木瓜AI-大模型中转平台 推荐一个 倍率0.01，等于1分=1刀，不介意的老铁用的邀请码吧 https://api.mooko.ai/register?aff=hU6L  
 - https://vip.voycloud.com/ VoycloudAi-大模型中转平台，提供整合工具，计费透明，多种模式链接  
+- https://cocoapi.top - COCO API，一个密钥接入 122 个模型，支持 Claude Code / Codex / Gemini 直连，兼容 OpenAI 与 Claude Messages 双协议，每日签到领额度，另有 0 倍率「公益组」
 --- 
 
 
