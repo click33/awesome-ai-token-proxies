@@ -33,7 +33,7 @@
 - https://sub.tisoz.com/home - 小肩膀 AI，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能调度多账号，按量计费
 - https://codex.hualong.site/ - 华龙中转站，纯血 Pro 20x 号池，订阅转 API，支持 Claude、GPT、Gemini，包月套餐，稳定优先绝不掺假
 - https://gpt.eacase.de5.net/home - Galaxy 银河，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能多账号调度，按量计费
-- https://teamorouter.com/ - TeamoRouter，专为 Claude Code 和 Codex 打造的原生 LLM Router，Claude 低至官方 2.3 折、GPT 低至 1 折、Gemini 低至 6 折，企业级 SLA，原厂 KA 级渠道，支持支付宝
+- https://teamorouter.com/ - TeamoRouter，专为 Claude Code 和 Codex 打造的原生 LLM Router，一个 Key 调用 Claude、GPT、Gemini、DeepSeek 等模型，兼容 OpenAI / Anthropic / Gemini 协议，按量计费、额度不过期，支持支付宝
 - https://api.muteki.site/home - Maru Code，订阅转 API 平台，支持 Claude、GPT、Gemini、Antigravity，智能调度多账号，按量计费，附 QQ 交流群
 - https://xbhuiz.com/home - XMAI，高速稳定的 API 中转站，支持 Claude、GPT、Gemini、Antigravity，一键接入，智能负载均衡，按量计费
 - https://api.fastai.cool/ - FAST AI中转站，满血5.5，稳定接入Claude Code / OpenAI Codex，无需担心封号和付款问题，包月套餐，稳定优先绝不掺假
