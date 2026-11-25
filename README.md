@@ -51,6 +51,7 @@
 - https://mytoken.top/ - 全球Token站，77+ AI 模型统一 API 接入，低延迟优化路由，企业级安全加密，按量计费透明定价，多节点全球加速
 - https://api.mooko.ai/ 木瓜AI-大模型中转平台 推荐一个 倍率0.01，等于1分=1刀，不介意的老铁用的邀请码吧 https://api.mooko.ai/register?aff=hU6L  
 - https://vip.voycloud.com/ VoycloudAi-大模型中转平台，提供整合工具，计费透明，多种模式链接  
+- https://api.linktoagi.com/ - LinkAGI，提供 GPT、Claude、Gemini 等模型 API，人民币按量计费，支持 Codex 接入；公开分组价格与逐次 Token 扣费，[进 QQ 群领 3 元体验额度](https://16871233.github.io/linkagi-api-starter/gpt-groups.html#trial)，提供[中文接入教程](https://docs.linktoagi.com/codex-api.html)。
 --- 
 
 
